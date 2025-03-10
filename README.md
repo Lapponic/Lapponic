@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lapponic
-- 👀 I’m interested in web3, Blockchain, NFT technology in general
-- 🌱 I’m currently media technology phd student while working on own web3 projects
-- 💞️ I’m looking for devs to collaborate on The Northlanders, a pfp collection of mutable/programmable nfts that will need platform to handle traits that can be changed, stored, swapped, bought and sold + release traits after mint. 
+
+- 👀 interested in web3, Blockchain, NFT technology in general
+- 🌱 media technology phd student
+- Founder of NFT PFP Collection
 - 📫 How to reach me twitter.com/Lapponic
 
 <!---
